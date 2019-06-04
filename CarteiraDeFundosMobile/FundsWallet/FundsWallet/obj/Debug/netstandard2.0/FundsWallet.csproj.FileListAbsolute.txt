@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\FundsWallet\FundsWallet\FundsWallet\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\PC\source\repos\FundsWallet\FundsWallet\FundsWallet\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\PC\source\repos\FundsWallet\FundsWallet\FundsWallet\obj\Debug\netstandard2.0\Views\FundDetail.xaml.g.cs
+C:\Users\PC\source\repos\FundsWallet\FundsWallet\FundsWallet\obj\Debug\netstandard2.0\FundsWallet.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\FundsWallet\FundsWallet\FundsWallet\obj\Debug\netstandard2.0\FundsWallet.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\FundsWallet\FundsWallet\FundsWallet\obj\Debug\netstandard2.0\FundsWallet.AssemblyInfo.cs
+C:\Users\PC\source\repos\FundsWallet\FundsWallet\FundsWallet\bin\Debug\netstandard2.0\FundsWallet.deps.json
+C:\Users\PC\source\repos\FundsWallet\FundsWallet\FundsWallet\bin\Debug\netstandard2.0\FundsWallet.dll
+C:\Users\PC\source\repos\FundsWallet\FundsWallet\FundsWallet\bin\Debug\netstandard2.0\ref\FundsWallet.dll
+C:\Users\PC\source\repos\FundsWallet\FundsWallet\FundsWallet\bin\Debug\netstandard2.0\FundsWallet.pdb
+C:\Users\PC\source\repos\FundsWallet\FundsWallet\FundsWallet\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\PC\source\repos\FundsWallet\FundsWallet\FundsWallet\obj\Debug\netstandard2.0\FundsWallet.dll
+C:\Users\PC\source\repos\FundsWallet\FundsWallet\FundsWallet\obj\Debug\netstandard2.0\ref\FundsWallet.dll
+C:\Users\PC\source\repos\FundsWallet\FundsWallet\FundsWallet\obj\Debug\netstandard2.0\FundsWallet.pdb

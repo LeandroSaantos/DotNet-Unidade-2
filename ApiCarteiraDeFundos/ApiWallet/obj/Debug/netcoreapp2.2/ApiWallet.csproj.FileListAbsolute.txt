@@ -1,0 +1,14 @@
+C:\Users\Leandro Santos\source\repos\ApiWallet\ApiWallet\bin\Debug\netcoreapp2.2\ApiWallet.deps.json
+C:\Users\Leandro Santos\source\repos\ApiWallet\ApiWallet\bin\Debug\netcoreapp2.2\ApiWallet.runtimeconfig.json
+C:\Users\Leandro Santos\source\repos\ApiWallet\ApiWallet\bin\Debug\netcoreapp2.2\ApiWallet.runtimeconfig.dev.json
+C:\Users\Leandro Santos\source\repos\ApiWallet\ApiWallet\bin\Debug\netcoreapp2.2\ApiWallet.dll
+C:\Users\Leandro Santos\source\repos\ApiWallet\ApiWallet\bin\Debug\netcoreapp2.2\ApiWallet.pdb
+C:\Users\Leandro Santos\source\repos\ApiWallet\ApiWallet\obj\Debug\netcoreapp2.2\ApiWallet.csprojAssemblyReference.cache
+C:\Users\Leandro Santos\source\repos\ApiWallet\ApiWallet\obj\Debug\netcoreapp2.2\ApiWallet.csproj.CoreCompileInputs.cache
+C:\Users\Leandro Santos\source\repos\ApiWallet\ApiWallet\obj\Debug\netcoreapp2.2\ApiWallet.RazorAssemblyInfo.cache
+C:\Users\Leandro Santos\source\repos\ApiWallet\ApiWallet\obj\Debug\netcoreapp2.2\ApiWallet.RazorAssemblyInfo.cs
+C:\Users\Leandro Santos\source\repos\ApiWallet\ApiWallet\obj\Debug\netcoreapp2.2\ApiWallet.AssemblyInfoInputs.cache
+C:\Users\Leandro Santos\source\repos\ApiWallet\ApiWallet\obj\Debug\netcoreapp2.2\ApiWallet.AssemblyInfo.cs
+C:\Users\Leandro Santos\source\repos\ApiWallet\ApiWallet\obj\Debug\netcoreapp2.2\ApiWallet.RazorTargetAssemblyInfo.cache
+C:\Users\Leandro Santos\source\repos\ApiWallet\ApiWallet\obj\Debug\netcoreapp2.2\ApiWallet.dll
+C:\Users\Leandro Santos\source\repos\ApiWallet\ApiWallet\obj\Debug\netcoreapp2.2\ApiWallet.pdb
